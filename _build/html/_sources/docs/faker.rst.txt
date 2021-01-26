@@ -1,0 +1,37 @@
+faker package
+=============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   faker.tests
+
+Submodules
+----------
+
+faker.conftest module
+---------------------
+
+.. automodule:: faker.conftest
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+faker.demo module
+-----------------
+
+.. automodule:: faker.demo
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: faker
+   :members:
+   :undoc-members:
+   :show-inheritance:

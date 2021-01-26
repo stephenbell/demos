@@ -1,0 +1,21 @@
+faker.tests package
+===================
+
+Submodules
+----------
+
+faker.tests.test\_standard\_providers module
+--------------------------------------------
+
+.. automodule:: faker.tests.test_standard_providers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: faker.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:

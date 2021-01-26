@@ -1,0 +1,18 @@
+python package
+==============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   python.faker_demo
+
+Module contents
+---------------
+
+.. automodule:: python
+   :members:
+   :undoc-members:
+   :show-inheritance:
